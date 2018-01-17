@@ -15,3 +15,11 @@ function johnLennonFacts(johnLennonFacts) {
   }
   return johnLennonfax;
 }
+
+function iLoveTheBeatles(n) {
+  let shoutIt = [];;
+  do {
+    console.log('I love the Beatles!');
+  }
+  while (n > 15);
+}
