@@ -10,7 +10,7 @@ function johnLennonFacts(johnLennonFacts) {
   var johnLennonfax = [];
   let i = 0;
   while (i < johnLennonFacts.length) {
-    johnLennonfax.push(`${johnLennonFacts[i]} + !!!`);
+    johnLennonfax.push(`${johnLennonFacts[i]}!!!`);
     i++;
   }
   return johnLennonfax;
